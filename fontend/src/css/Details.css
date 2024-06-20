@@ -1,0 +1,10 @@
+.product-image {
+  width: 90%;
+  height: 100%;
+ 
+}
+
+.product{
+display: flex;
+
+}
